@@ -30,13 +30,6 @@
 - [BottomScrollPanel](classes/BottomScrollPanel.md) - 棋譜表示パネル
 - [Sound](classes/Sound.md) - 効果音
 
-### AI アルゴリズム
-- [AI Overview](ai/AI-Overview.md) - AI実装概要
-- [MonteCarloPlayer](ai/MonteCarloPlayer.md) - モンテカルロ法AI
-- [QLearningPlayer](ai/QLearningPlayer.md) - Q学習AI (v1)
-- [QLearningPlayerV2](ai/QLearningPlayerV2.md) - Q学習AI (v2)
-- [QLearningTrainer](ai/QLearningTrainer.md) - Q学習トレーナー
-
 ### ツール
 - [ModelValidator](tools/ModelValidator.md) - モデル検証ツール
 - [ModelOptimizer](tools/ModelOptimizer.md) - モデル最適化ツール
@@ -74,3 +67,4 @@
 ---
 
 *このWikiは自動生成されました*
+
